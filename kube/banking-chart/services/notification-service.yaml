@@ -1,0 +1,5 @@
+app:
+  name: notification-service
+
+service:
+  port: 5004
